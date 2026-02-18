@@ -18,7 +18,7 @@
 <td width="50%">x
 <h3 align="center">Diseño y Ejecución de Casos de Error en aplicaciones Web</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/AlbertoSanchez610/Dise-o-y-Ejecuci-n-de-Casos-de-Error-en-aplicaciones-Web" target="_blank"><img src="https://i.imgur.com/Hkh3enu.png" width="400"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">

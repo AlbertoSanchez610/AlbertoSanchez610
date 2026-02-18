@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Alberto Sánchez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/kJXvhs9.jpeg">
+<img src="https://i.imgur.com/XR8ZbCt.png">
 
 ## Sobre mi
 

@@ -42,8 +42,10 @@
 ● Verificación del correcto manejo de códigos (200, 400, 402, 500) para garantizar que la app no colapsara ante entradas de datos invalidos.
 
 ● Utilización de Postman para la creación de colecciones de prueba automatizadas y validación de esquemas JSON.</p>
-</div>                                                             
-              
+</div>
+
+</td>  
+</table>                      
 </div>
 <br>
 

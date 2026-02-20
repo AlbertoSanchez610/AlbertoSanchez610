@@ -15,7 +15,7 @@
 ## Proyectos
 <table>
 <tr>
-<td width="50%">x
+<td width="50%">
 <h3 align="center">Diseño y Ejecución de Casos de Error en aplicaciones Web</h3>
 <div align="center">
 <a href="https://github.com/AlbertoSanchez610/Dise-o-y-Ejecuci-n-de-Casos-de-Error-en-aplicaciones-Web" target="_blank"><img src="https://i.imgur.com/Hkh3enu.png" width="400"></a>
